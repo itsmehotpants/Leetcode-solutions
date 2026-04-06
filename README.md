@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0401-binary-watch) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
