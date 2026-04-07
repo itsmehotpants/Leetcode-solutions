@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0874-walking-robot-simulation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2460-apply-operations-to-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Divide and Conquer
 |  |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
