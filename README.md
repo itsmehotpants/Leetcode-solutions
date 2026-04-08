@@ -37,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2460-apply-operations-to-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0761-special-binary-string) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2460-apply-operations-to-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Counting
 |  |
 | ------- |
