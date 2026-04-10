@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0874-walking-robot-simulation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Counting
 |  |
 | ------- |
