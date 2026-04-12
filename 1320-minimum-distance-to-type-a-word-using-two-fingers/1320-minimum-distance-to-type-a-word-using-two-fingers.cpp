@@ -8,8 +8,12 @@ public:
 
      int minimumDistance(string& word) {
          int n=word.size();
-        fill(&dp[0][0], &dp[0][0]+n*27, INT_MAX);
-        dp[0][26]=0;
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < 27; j++) {
+            dp[i][j] = INT_MAX;
+        }
+    }  
+          dp[0][26]=0;
         int prev=word[0]-'A'; 
 
         for (int i=1; i<n; i++) {
