@@ -1,32 +1,29 @@
+int dp[300][27];
 class Solution {
 public:
-int dp[301][7][7][7][7];
-pair<int,int> cord(char ch){
-    int curr= ch-'A';
-    return {curr/6,curr%6};
-}
-int dist(int x1,int y1,int x2,int y2 ){
-    return abs(x1-x2)+abs(y1-y2);
-}
-int solve(string &word,int i,int x1,int y1,int x2,int y2){
-    if(i>=word.length()) return 0;
-    auto[x,y]= cord(word[i]);
-if(dp[i][x1+1][y1+1][x2+1][y2+1]!=-1) return dp[i][x1+1][y1+1][x2+1][y2+1];
-    if(x1==-1&&y1==-1&&x2==-1&&y2==-1) return dp[i][x1+1][y1+1][x2+1][y2+1] = solve(word,i+1,x,y,x2,y2);
-    if(x2==-1 && y2==-1){
-        int moveF2 = solve(word,i+1,x1,y1,x,y);
-        int moveF1 = dist(x1,y1,x,y)+solve(word,i+1,x,y,x2,y2);
-        return dp[i][x1+1][y1+1][x2+1][y2+1]= min(moveF1,moveF2);
+     int dist(int x, int y) {
+        if (x==26 || y==26) return 0; 
+        return abs(x/6-y/6)+abs(x%6-y%6);
     }
 
-    int moveF1 = dist(x1,y1,x,y)+solve(word,i+1,x,y,x2,y2);
-    int moveF2 = dist(x2,y2,x,y)+solve(word,i+1,x1,y1,x,y);
-            return dp[i][x1+1][y1+1][x2+1][y2+1] =  min(moveF1,moveF2);
+     int minimumDistance(string& word) {
+         int n=word.size();
+        fill(&dp[0][0], &dp[0][0]+n*27, INT_MAX);
+        dp[0][26]=0;
+        int prev=word[0]-'A'; 
 
-    
-}
-    int minimumDistance(string word) {
-        memset(dp,-1,sizeof(dp));
-       return solve(word,0,-1,-1,-1,-1); 
+        for (int i=1; i<n; i++) {
+            int x=word[i]-'A';
+
+            for (int j=0; j<27; j++) {
+                if (dp[i-1][j]>=INT_MAX) continue;
+                dp[i][j]=min(dp[i][j], dp[i-1][j] + dist(prev, x));
+
+                dp[i][prev]=min(dp[i][prev], dp[i-1][j]+dist(j, x));
+            }
+            prev=x; 
+        }
+
+        return *min_element(dp[n-1], dp[n-1]+27);
     }
 };
