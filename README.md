@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Bit Manipulation
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2460-apply-operations-to-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
