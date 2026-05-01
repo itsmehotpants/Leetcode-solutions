@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0761-special-binary-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0761-special-binary-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0396-rotate-function](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0396-rotate-function) |
 | [0704-binary-search](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0704-binary-search) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0704-binary-search](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
