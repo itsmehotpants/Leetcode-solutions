@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0761-special-binary-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0275-h-index-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0396-rotate-function) |
 | [0704-binary-search](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0275-h-index-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
@@ -248,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
