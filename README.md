@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2544-alternating-digit-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
