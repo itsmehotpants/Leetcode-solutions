@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3225-maximum-score-from-grid-operations](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
