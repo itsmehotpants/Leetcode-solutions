@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3909-compare-sums-of-bitonic-parts](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Counting
 |  |
 | ------- |
