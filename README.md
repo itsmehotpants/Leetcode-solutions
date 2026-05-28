@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0208-implement-trie-prefix-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0696-count-binary-substrings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0796-rotate-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0208-implement-trie-prefix-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [2069-walking-robot-simulation-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Linked List
 |  |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Heap (Priority Queue)
