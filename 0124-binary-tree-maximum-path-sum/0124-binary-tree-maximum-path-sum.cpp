@@ -14,17 +14,17 @@ public:
 int maxm=INT_MIN;
 
 int help(TreeNode*node){
-            if(!node) return 0;
+        if(!node) return 0;
 
-int lsum= max(0,help(node->left));
-int rsum= max(0,help(node->right));
- maxm= max(maxm,lsum+rsum+node->val);
-return node->val+max(lsum,rsum);
+        int lsum= max(0,help(node->left));
+        int rsum= max(0,help(node->right));
+
+        
+        maxm= max(maxm,lsum+rsum+node->val);
+        return node->val+max(lsum,rsum);
 }
     int maxPathSum(TreeNode* root) {
         help(root);
         return maxm;
-
-
     }
 };
