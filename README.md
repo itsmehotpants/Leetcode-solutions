@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Enumeration
 |  |
 | ------- |
