@@ -11,37 +11,15 @@
  */
 class Solution {
 public:
+unordered_set<int>st;
+bool dfs(TreeNode*root,int k){
+    if(!root) return false;
+    if(st.count(k-root->val)) return true;
+    else st.insert(root->val);
 
-    TreeNode* find(TreeNode* root, int target) {
-
-        if(!root)
-            return NULL;
-
-        if(root->val == target)
-            return root;
-
-        if(target < root->val)
-            return find(root->left, target);
-
-        return find(root->right, target);
-    }
-
-    bool dfs(TreeNode* root, TreeNode* original, int k) {
-
-        if(!root)
-            return false;
-
-        TreeNode* node = find(original, k - root->val);
-
-        if(node && node != root)
-            return true;
-
-        return dfs(root->left, original, k) ||
-               dfs(root->right, original, k);
-    }
-
+    return dfs(root->left,k) || dfs(root->right,k);
+}
     bool findTarget(TreeNode* root, int k) {
-
-        return dfs(root, root, k);
+        return dfs(root,k);
     }
 };
