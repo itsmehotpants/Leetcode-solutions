@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0799-champagne-tower) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0886-possible-bipartition) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0886-possible-bipartition) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## String Matching
 |  |
 | ------- |
@@ -582,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0886-possible-bipartition) |
 ## Topological Sort
@@ -594,4 +599,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
