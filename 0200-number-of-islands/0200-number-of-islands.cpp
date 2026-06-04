@@ -1,13 +1,33 @@
 class Solution {
 public:
 vector<pair<int,int>>dir={{1,0},{0,1},{-1,0},{0,-1}};
-void dfs(int n,int m,vector<vector<char>>&grid){
-    if(n<0||m<0||n>=grid.size()||m>=grid[0].size()) return;
-    if(grid[n][m]!='1') return;
+void bfs(int n,int m,vector<vector<char>>& grid){
 
-        grid[n][m]='0';
-    for(auto [u,v]:dir){
-        dfs(n+u,m+v,grid);
+    queue<pair<int,int>> q;
+
+    q.push({n,m});
+    grid[n][m]='0';
+
+    while(!q.empty()){
+
+        auto [i,j]=q.front();
+        q.pop();
+
+        for(auto [dx,dy]:dir){
+
+            int x=i+dx;
+            int y=j+dy;
+
+            if(x<0 || y<0 || x>=grid.size() || y>=grid[0].size())
+                continue;
+
+            if(grid[x][y]=='1'){
+
+                grid[x][y]='0';
+
+                q.push({x,y});
+            }
+        }
     }
 }
 
@@ -18,7 +38,7 @@ void dfs(int n,int m,vector<vector<char>>&grid){
             for(int j =0;j<m;j++){
                 if(grid[i][j]=='1'){
                     ans++;
-                    dfs(i,j,grid);
+                    bfs(i,j,grid);
                 }
             }
             
