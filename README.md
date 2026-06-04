@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0886-possible-bipartition](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0951-flip-equivalent-binary-trees](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1020-number-of-enclaves](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0886-possible-bipartition](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0886-possible-bipartition](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -527,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Graph Theory
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
