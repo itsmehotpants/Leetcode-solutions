@@ -1,38 +1,37 @@
 class Solution {
 public:
 
-    void dfs(int n,vector<vector<int>>& conn,vector<bool>&visit){
-        visit[n]=1;
-        for(int i=0;i<conn.size();i++){
-            if(!visit[i]&&conn[n][i]) dfs(i,conn,visit);
-        }
-    }
-    void bfs(int n,vector<vector<int>>& conn,vector<bool>&visit){
-        queue<int>q;
-        q.push(n);
-        visit[n]=1;
-        while(!q.empty()){
-            int temp =q.front();
-            q.pop();
-            for(int i = 0 ;i<conn.size();i++){
-                if(!visit[i]&&conn[temp][i]==1){
-                    q.push(i);
-                    visit[i]=1;
-                }
-            }
-        }
+    vector<int>parent,size;
+    int find(int x){
+        if(x==parent[x]) return x;
+        return parent[x] =find(parent[x]);
     }
 
+    void unite(int a,int b){
+        int roota=find(a),rootb=find(b);
+        if(roota==rootb) return;
+        if(size[roota]<size[rootb]){
+            swap(roota,rootb);
+        }
+        parent[rootb]=roota;
+        size[roota]+=size[rootb];
+    }
+
+
     int findCircleNum(vector<vector<int>>& conn) {
-        int ans = 0;
         int n =conn.size();
-        vector<bool>visit(n);
+        parent.resize(n);
+        size.resize(n,1);
+        for(int i =0;i<n;i++) parent[i]=i;
         for(int i =0;i<n;i++){
-            if(!visit[i]) {
-                ans++;
-                bfs(i,conn,visit);
+            for(int j =i+1;j<n;j++){
+                if(conn[i][j]==1) unite(i,j);
+            }
         }
+        unordered_set<int>s;
+        for(int i =0;i<n;i++){
+            s.insert(find(i));
         }
-        return ans;
+        return s.size();
     }
 };
