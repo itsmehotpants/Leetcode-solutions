@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1584-min-cost-to-connect-all-points](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1672-richest-customer-wealth](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1584-min-cost-to-connect-all-points](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1584-min-cost-to-connect-all-points](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -614,4 +617,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
