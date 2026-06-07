@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3909-compare-sums-of-bitonic-parts) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Counting
 |  |
 | ------- |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Prefix Sum
 |  |
 | ------- |
