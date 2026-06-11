@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [0740-delete-and-earn](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0799-champagne-tower) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
