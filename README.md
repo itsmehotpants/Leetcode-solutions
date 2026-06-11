@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0396-rotate-function) |
+| [0412-fizz-buzz](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0412-fizz-buzz](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0648-replace-words](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0648-replace-words) |
 | [0696-count-binary-substrings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0721-accounts-merge) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0874-walking-robot-simulation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
