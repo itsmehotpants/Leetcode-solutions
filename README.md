@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2544-alternating-digit-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2236-root-equals-sum-of-children](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
