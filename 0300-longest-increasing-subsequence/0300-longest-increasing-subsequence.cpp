@@ -1,23 +1,16 @@
 class Solution {
 public:
-
-int n;
-int dp[2501][2501];
-int solve(int i,int p,vector<int>&nums){
-    if(i>=n) return 0;
-    int take=0;
-    if(p!=-1 && dp[i][p]!=-1) return dp[i][p];
-    if(p==-1||nums[p]<nums[i]){
-      take=1+solve(i+1,i,nums);
-    }
-    int skip = solve(i+1,p,nums);
-    if(p!=-1) dp[i][p]=max(take,skip);
-    return max(take,skip);
-}
+    vector<int> dp;
     int lengthOfLIS(vector<int>& nums) {
-        n =nums.size();
-        memset(dp,-1,sizeof(dp));
-         return solve(0,-1,nums);
-        // return dp[2500][2500];
+        dp.resize(size(nums)+1, -1);
+        return solve(nums, 0, -1);
+    }
+    int solve(vector<int>& nums, int i, int prev_i) {
+        if(i >= size(nums)) return 0;
+        if(dp[prev_i+1] != -1) return dp[prev_i+1];
+        int take = 0, dontTake = solve(nums, i + 1, prev_i);
+        if(prev_i == -1 || nums[i] > nums[prev_i])
+            take = 1 + solve(nums, i + 1, i);
+        return dp[prev_i+1] = max(take, dontTake);
     }
 };
