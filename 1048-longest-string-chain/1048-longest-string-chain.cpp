@@ -28,9 +28,19 @@ int lis(vector<string>& words,int prev,int curr){
 return dp[prev+1]= max(taken, not_taken);
 }
     int longestStrChain(vector<string>& words) {
-        memset(dp,-1,sizeof(dp));
+    //    memset(dp,-1,sizeof(dp));
       n= words.size();
         sort(words.begin(),words.end(),comp);
-      return  lis(words,-1,0);
+        vector<int> dp2(n,1);
+        int ans=1;
+    //   return  lis(words,-1,0);
+    for(int i =0;i<n;i++){
+        for(int j=0;j<i;j++){
+            if(isPred(words[j],words[i])){
+            dp2[i] = max(dp2[i],dp2[j]+1);
+            ans = max(ans,dp2[i]);
+        }
+    }}
+    return ans;
     }
 };
