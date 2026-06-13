@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2463-minimum-total-distance-traveled](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2574-left-and-right-sum-differences](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2615-sum-of-distances) |
