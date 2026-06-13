@@ -1,21 +1,13 @@
 class Solution {
 public:
 typedef long long ll;
-int n ;
-ll dp[100001][2];
-ll solve(int i,vector<int>&nums,bool flag){
-    if(i>=n) return 0;
-    if(dp[i][flag]!= -1) return dp[i][flag];
-    ll skip = solve(i+1,nums,flag);
-    ll val = nums[i];
-    if(flag==false) val=-val;
-    ll take  = solve(i+1,nums,!flag)+val;
-    return dp[i][flag]=max(skip,take);
-}
     long long maxAlternatingSum(vector<int>& nums) {
-     n =nums.size();
-    memset(dp,-1,sizeof(dp));
-    return solve(0,nums,true);    
+        int n =nums.size();
+        vector<vector<ll>>t(n+1,vector<ll>(2,0));
+        for(int i =1;i<=n;i++){
+        t[i][0] =max(t[i-1][1]-nums[i-1],t[i-1][0]);
+        t[i][1] =max(t[i][0]+nums[i-1],t[i-1][1]);
+        }
+        return max(t[n][0],t[n][1]);
     }
-
-};  
+};
