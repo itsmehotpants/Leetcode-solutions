@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0648-replace-words) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0733-flood-fill) |
@@ -726,9 +728,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2926-maximum-balanced-subsequence-sum) |
 <!---LeetCode Topics End-->
