@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2463-minimum-total-distance-traveled](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3225-maximum-score-from-grid-operations](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3225-maximum-score-from-grid-operations](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3488-closest-equal-element-queries](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3488-closest-equal-element-queries](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -716,4 +719,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2926-maximum-balanced-subsequence-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2926-maximum-balanced-subsequence-sum) |
 <!---LeetCode Topics End-->
