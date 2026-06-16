@@ -1,45 +1,47 @@
 class Solution {
 public:
-    int m, n;
-    vector<vector<int>> dp;
-
-    int solve(string& s1, string& s2, int i, int j) {
-        if(i == m) return n - j;
-        if(j == n) return m - i;
-
-        if(dp[i][j] != -1)
-            return dp[i][j];
-
-        if(s1[i] == s2[j])
-            return dp[i][j] = 1 + solve(s1, s2, i + 1, j + 1);
-
-        return dp[i][j] = 1 + min(
-            solve(s1, s2, i + 1, j),
-            solve(s1, s2, i, j + 1)
-        );
-    }
-
-    string build(string& s1, string& s2, int i, int j) {
-        if(i == m) return s2.substr(j);
-        if(j == n) return s1.substr(i);
-
-        if(s1[i] == s2[j])
-            return s1[i] + build(s1, s2, i + 1, j + 1);
-
-        if(solve(s1, s2, i + 1, j) <= solve(s1, s2, i, j + 1))
-            return s1[i] + build(s1, s2, i + 1, j);
-
-        return s2[j] + build(s1, s2, i, j + 1);
-    }
-
     string shortestCommonSupersequence(string s1, string s2) {
-        m = s1.size();
-        n = s2.size();
+        int n1 = s1.length();
+        int n2 = s2.length();
 
-        dp.assign(m, vector<int>(n, -1));
+        vector<vector<int>>dp(n1+1,vector<int>(n2+1,0));
+        for(int i = 1; i <= n1; i++) {
+            for(int j = 1; j <= n2; j++) {
+                if(s1[i-1] == s2[j-1])
+                    dp[i][j] = 1 + dp[i-1][j-1];
+                else
+                    dp[i][j] = max(dp[i-1][j], dp[i][j-1]);
+            }
+        }
+        string ans= "";
+        int  i=n1,j=n2;
+        while(i>0&&j>0){
+            if(s1[i-1]==s2[j-1]){
+                ans.push_back(s1[i-1]);
+                i--;
+                j--;
+            }
+            else{
+                if(dp[i-1][j]>dp[i][j-1]){
+                    ans.push_back(s1[i-1]);
+                    i--;
+                }
+                else{
+                    ans.push_back(s2[j-1]);
+                    j--;
+                }
+            }
+        }
+        while(i>0){
+            ans.push_back(s1[i-1]);
+            i--;
+        }
+        while(j>0){
+            ans.push_back(s2[j-1]);
+            j--;
+        }
+        reverse(ans.begin(),ans.end());
+        return ans;
 
-        solve(s1, s2, 0, 0);
-
-        return build(s1, s2, 0, 0);
     }
 };
