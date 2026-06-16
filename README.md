@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0799-champagne-tower) |
 | [1048-longest-string-chain](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1048-longest-string-chain](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
