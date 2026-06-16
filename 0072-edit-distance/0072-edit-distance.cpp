@@ -1,32 +1,24 @@
 class Solution {
 public:
-    int n, m;
-    int dp[501][501];
-
-    int solve(string& s1, string& s2, int i, int j) {
-
-        if(i == n) return m - j;
-        if(j == m) return n - i;
-
-        if(dp[i][j] != -1)
-            return dp[i][j];
-
-        if(s1[i] == s2[j])
-            return dp[i][j] = solve(s1, s2, i + 1, j + 1);
-
-        return dp[i][j] = 1 + min({
-            solve(s1, s2, i + 1, j),     // delete
-            solve(s1, s2, i, j + 1),     // insert
-            solve(s1, s2, i + 1, j + 1)  // replace
-        });
-    }
 
     int minDistance(string s1, string s2) {
+         int n, m;
         n = s1.size();
         m = s2.size();
 
-        memset(dp, -1, sizeof(dp));
+vector<vector<int>>dp(n+1,vector<int>(m+1,0));
+for(int i =0;i<=n;i++){
+    for(int j =0;j<=m;j++){
+        if(i==0 || j==0) dp[i][j]= i+j;
+        else if (s1[i-1]==s2[j-1]) dp[i][j] =dp[i-1][j-1];
+        else {
+            dp[i][j] =1+min({dp[i-1][j],dp[i][j-1],dp[i-1][j-1]});
+        }
+       
+    }
+}
+ return dp[n][m];
 
-        return solve(s1, s2, 0, 0);
+        
     }
 };
