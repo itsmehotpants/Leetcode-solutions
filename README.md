@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0412-fizz-buzz](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0516-longest-palindromic-subsequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0648-replace-words) |
 | [0696-count-binary-substrings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
