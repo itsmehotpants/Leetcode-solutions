@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0212-word-search-ii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0494-target-sum) |
