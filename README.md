@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
@@ -763,4 +765,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2926-maximum-balanced-subsequence-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
