@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2463-minimum-total-distance-traveled](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2784-check-if-array-is-good](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2460-apply-operations-to-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
