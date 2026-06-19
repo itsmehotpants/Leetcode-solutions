@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0061-rotate-list) |
+| [0455-assign-cookies](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0368-largest-divisible-subset](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0761-special-binary-string) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0455-assign-cookies](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0542-01-matrix) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
