@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1732-find-the-highest-altitude](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1861-rotating-the-box) |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1732-find-the-highest-altitude](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
