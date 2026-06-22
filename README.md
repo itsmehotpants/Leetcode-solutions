@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0412-fizz-buzz) |
