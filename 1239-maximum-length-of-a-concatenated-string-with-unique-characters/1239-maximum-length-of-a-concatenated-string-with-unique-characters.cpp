@@ -1,37 +1,50 @@
 class Solution {
 public:
-
-    bool isValid(string &s1, string &s2) {
-        vector<int> freq(26, 0);
-
-        for(char c : s1) {
-            if(freq[c-'a']) return false;
-            freq[c-'a']++;
+    bool dupl(string &s1, string& s2) {
+        int arr[26] = {0};
+        
+        for(char &ch : s1) {
+            if(arr[ch-'a'] > 0)
+                return true;
+            arr[ch-'a']++;
         }
-
-        for(char c : s2) {
-            if(freq[c-'a']) return false;
-            freq[c-'a']++;
+        
+        for(char &ch : s2) {
+            if(arr[ch-'a'] > 0)
+                return true;
         }
-
-        return true;
+        
+        return false;
     }
-
-    int solve(int i, string temp, vector<string>& arr) {
-        if(i == arr.size()) return temp.length();
-
-        int exclude = solve(i+1, temp, arr);
-
+    
+    unordered_map<string, int> mp;
+    
+    int solve(int idx, vector<string>& arr, string temp, int n) {
+        if(idx >= n)
+            return temp.length();
+        
+        if(mp.find(temp) != mp.end())
+            return mp[temp];
+        
         int include = 0;
-        if(isValid(temp, arr[i])) {
-            include = solve(i+1, temp + arr[i], arr);
+        int exclude = 0;
+        if(dupl(arr[idx], temp)) {
+            exclude = solve(idx+1, arr, temp, n);
+        } else {
+            exclude = solve(idx+1, arr, temp, n);
+            temp += arr[idx];
+            include = solve(idx+1, arr, temp, n);
         }
-
-        return max(include, exclude);
+        
+        return mp[temp] = max(include, exclude);
     }
-
+    
     int maxLength(vector<string>& arr) {
         string temp = "";
-        return solve(0, temp, arr);
+        mp.clear();
+        int n = arr.size();
+        
+        return solve(0, arr, temp, n);
+        
     }
 };
