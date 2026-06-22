@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0868-binary-gap) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0494-target-sum) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1250-check-if-it-is-a-good-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1306-jump-game-iii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1345-jump-game-iv) |
