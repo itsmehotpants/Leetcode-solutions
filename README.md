@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2463-minimum-total-distance-traveled](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2719-count-of-integers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2719-count-of-integers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3225-maximum-score-from-grid-operations](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2544-alternating-digit-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2544-alternating-digit-sum) |
+| [2719-count-of-integers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2719-count-of-integers) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2719-count-of-integers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2719-count-of-integers) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
