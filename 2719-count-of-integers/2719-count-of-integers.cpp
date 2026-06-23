@@ -26,12 +26,12 @@ string decone(string s){
     }
     if(i>=0) s[i]--;
 
-     int pos=0;
-    while(pos+1<s.size() && s[pos]=='0')
-        pos++;
+    //  int pos=0;
+    // while(pos+1<s.size() && s[pos]=='0')
+    //     pos++;
 
-    return s.substr(pos);
-    // return s;
+    // return s.substr(pos);
+    return s;
 
 
 }
