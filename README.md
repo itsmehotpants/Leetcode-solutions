@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0648-replace-words) |
 | [0696-count-binary-substrings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0761-special-binary-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1048-longest-string-chain](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1048-longest-string-chain) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0752-open-the-lock](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
