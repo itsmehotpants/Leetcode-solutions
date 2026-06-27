@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2926-maximum-balanced-subsequence-sum) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3225-maximum-score-from-grid-operations](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3488-closest-equal-element-queries](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Graph Theory
