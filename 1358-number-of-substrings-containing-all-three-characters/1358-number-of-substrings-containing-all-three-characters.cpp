@@ -7,7 +7,7 @@ public:
 
         for(i=0; i<n; i++){
             seen[s[i]-'a'] = i;
-            cnt += 1 + min(seen[0], min(seen[1], seen[2]));
+            cnt += 1 + min({seen[0], seen[1], seen[2]});
         }
 
         return cnt;
