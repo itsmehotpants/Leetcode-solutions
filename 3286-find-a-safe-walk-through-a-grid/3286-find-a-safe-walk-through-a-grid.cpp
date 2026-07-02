@@ -1,32 +1,34 @@
 class Solution {
 public:
+int dx[4] = {-1,1,0,0}, dy[4] = {0,0,-1,1};
+    bool findSafeWalk(vector<vector<int>>& grid, int health) {
+        int n  =grid.size(),m=grid[0].size();
+        vector<vector<int>>dist(n,vector<int>(m,INT_MAX));
+        dist[0][0]=grid[0][0];
+        deque<pair<int,int>>dq;
+        dq.push_front({0,0});
 
-typedef tuple<int,int,int> iii;
-    bool findSafeWalk(vector<vector<int>>& g, int health) {
-        int  m =g.size(),n=g[0].size();
+        while(!dq.empty()){
+            auto[x,y] =dq.front();
+            dq.pop_front();
 
-        priority_queue<iii,vector<iii>,greater<iii>>pq;
-        pq.push({g[0][0],0,0});
+            for(int k =0;k<4;k++){
+                int nx = x+dx[k];
+                int ny =y +dy[k];
 
-        vector<vector<int>>dist(m,vector<int>(n,INT_MAX));
-        int dx[] = {1,-1,0,0},dy[] = {0,0,1,-1};
-        dist[0][0]=g[0][0];
+                if(nx<0||ny<0||nx>=n||ny>=m) continue;
+                int newCost = dist[x][y]+grid[nx][ny];
 
-        while(!pq.empty()){
-            auto [curr,x,y] = pq.top();
-            pq.pop();
-        if(curr>dist[x][y]) continue;
-            for(int i =0;i<4;i++){
-                int nx= x+dx[i];
-                int ny= y+dy[i];
+                if(newCost<dist[nx][ny]){
+                    dist[nx][ny]=newCost;
+                    if(grid[nx][ny]==0) dq.push_front({nx,ny});
+                    else dq.push_back({nx,ny});
 
-                if(nx<0||ny<0||nx>=m||ny>=n) continue;
-                if(curr+g[nx][ny]<dist[nx][ny]){
-                    dist[nx][ny]= curr+g[nx][ny];
-                    pq.push({dist[nx][ny],nx,ny});
                 }
+
             }
         }
-        return dist[m-1][n-1]<health;
+
+        return dist[n-1][m-1]<health;
     }
 };
