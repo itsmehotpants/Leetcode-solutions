@@ -6,17 +6,14 @@ public:
         for (char c : s) {
             if (c == '(' || c == '{' || c == '[') {
                 st.push(c);
-            } 
-            else if (c == ')') {
-                if (st.empty() || st.top() != '(') return false;
-                st.pop();
-            } 
-            else if (c == '}') {
-                if (st.empty() || st.top() != '{') return false;
-                st.pop();
-            } 
-            else if (c == ']') {
-                if (st.empty() || st.top() != '[') return false;
+            } else {
+                if (st.empty()) return false;
+
+                if ((c == ')' && st.top() != '(') ||
+                    (c == '}' && st.top() != '{') ||
+                    (c == ']' && st.top() != '['))
+                    return false;
+
                 st.pop();
             }
         }
