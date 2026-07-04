@@ -7,13 +7,15 @@ public:
          for(int i=0;i<k;i++){
             sum+=nums[i];
          }
-         double avg = (double)sum/k;
-         double curravg= 0;
+        //  double avg = (double)sum/k;
+        //  double curravg= 0;
+        int maxsum  = sum;
          for(int i =k;i<n;i++){
             sum = sum+nums[i]-nums[i-k];
-            curravg= (double)sum/k;
-            avg= max(avg,curravg);
+            maxsum =max(maxsum,sum);
+            // curravg= (double)sum/k;
+            // avg= max(avg,curravg);
          }
-         return avg;
+         return (double)maxsum/k;
     }
 };
