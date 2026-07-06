@@ -62,5 +62,3 @@ vector<int>getDivisors(int x){
 
         }
 };
-
-//k*(nums[r]-nums[l])
