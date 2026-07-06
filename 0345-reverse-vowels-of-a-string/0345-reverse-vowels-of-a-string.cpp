@@ -8,19 +8,25 @@ bool isVowel(char c){
         int n=s.size();
         int  l=0,r=n-1;
        while(l<r){
-            if(isVowel(s[l]) && isVowel(s[r])){
-                swap(s[l],s[r]);
-                l++;r--;
-            }
-            else if(isVowel(s[l]) && !isVowel(s[r])){
-                r--;
-            }
-            else if(!isVowel(s[l]) && isVowel(s[r])){
-                l++;
-            }
+            // if(isVowel(s[l]) && isVowel(s[r])){
+            //     swap(s[l],s[r]);
+            //     l++;r--;
+            // }
+            // else if(isVowel(s[l]) && !isVowel(s[r])){
+            //     r--;
+            // }
+            // else if(!isVowel(s[l]) && isVowel(s[r])){
+            //     l++;
+            // }
+            // else{
+            //     l++;
+            //     r--;
+            // }
+            if(!isVowel(s[l])) l++;
+            else if(!isVowel(s[r])) r--;
             else{
-                l++;
-                r--;
+                swap(s[l],s[r]);
+                l++,r--;
             }
         }
         return s;
