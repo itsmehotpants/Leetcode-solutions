@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [1048-longest-string-chain](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1436-destination-city](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1436-destination-city) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1584-min-cost-to-connect-all-points](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
