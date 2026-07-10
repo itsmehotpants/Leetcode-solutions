@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Graph Theory
 |  |
