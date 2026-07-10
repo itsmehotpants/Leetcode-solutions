@@ -550,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1436-destination-city](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1436-destination-city) |
+| [1472-design-browser-history](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1584-min-cost-to-connect-all-points](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [1472-design-browser-history](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1472-design-browser-history) |
 | [2069-walking-robot-simulation-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Linked List
 |  |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [1472-design-browser-history](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -870,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1472-design-browser-history](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search Tree
 |  |
@@ -966,4 +970,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
