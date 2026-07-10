@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2784-check-if-array-is-good](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
 |  |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3634-minimum-removals-to-balance-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3620-network-recovery-pathways](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Matrix
