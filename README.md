@@ -907,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
