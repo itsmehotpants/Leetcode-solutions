@@ -1,29 +1,43 @@
-//brute
 class Solution {
 public:
     string decodeString(string s) {
-        while (s.find('[') != string::npos) {
+        stack<char>st;
+        // string res="";
+        // string add="",word="";
 
-            int close = s.find(']');
+        for(char c:s){
+            if(c!=']'){
+                st.push(c);
+            }
+            else{
+                string str= "";
+                while(st.top()!='['){
+                    str+=st.top();
+                    st.pop();
+                }
+                reverse(str.begin(),str.end());
+                st.pop();
 
-            // Find matching '['
-            int open = close;
-            while (s[open] != '[') open--;
+                string num="";
+                while(!st.empty() && isdigit(st.top())){
+                    num+=st.top();st.pop();
+                }
+                reverse(num.begin(),num.end());
+                int k =stoi(num);
 
-            // Find the complete number before '['
-            int numStart = open - 1;
-            while (numStart >= 0 && isdigit(s[numStart])) numStart--;
-            numStart++;
+                while(k--){
+                    for(char c:str){
+                        st.push(c);
+                    }
+                }
 
-            int k = stoi(s.substr(numStart, open - numStart));
-            string body = s.substr(open + 1, close - open - 1);
-
-            string expanded = "";
-            while (k--) expanded += body;
-
-            s = s.substr(0, numStart) + expanded + s.substr(close + 1);
-        }
-
-        return s;
+            }
+            }
+            string ans = "";
+            while(!st.empty()){
+                ans+=st.top();st.pop();
+            }
+            reverse(ans.begin(),ans.end());
+            return ans;
     }
 };
