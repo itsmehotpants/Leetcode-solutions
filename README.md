@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [0838-push-dominoes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0838-push-dominoes) |
+| [0844-backspace-string-compare](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1048-longest-string-chain](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0874-walking-robot-simulation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0838-push-dominoes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0838-push-dominoes) |
+| [0844-backspace-string-compare](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1048-longest-string-chain](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -918,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1472-design-browser-history](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search Tree
