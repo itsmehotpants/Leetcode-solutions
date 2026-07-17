@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1871-jump-game-vii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1871-jump-game-vii) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2376-count-special-integers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2376-count-special-integers) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1250-check-if-it-is-a-good-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2376-count-special-integers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2376-count-special-integers) |
