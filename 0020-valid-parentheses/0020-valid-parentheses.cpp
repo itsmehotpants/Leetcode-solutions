@@ -9,10 +9,9 @@ public:
             } else {
                 if (st.empty()) return false;
 
-                if ((c == ')' && st.top() != '(') ||
-                    (c == '}' && st.top() != '{') ||
-                    (c == ']' && st.top() != '['))
-                    return false;
+                if (c == ')' && st.top() != '(') return false;
+                if (c == '}' && st.top() != '{') return false;
+                if (c == ']' && st.top() != '[') return false;
 
                 st.pop();
             }
