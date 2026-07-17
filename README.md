@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0874-walking-robot-simulation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0648-replace-words) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0721-accounts-merge) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0394-decode-string) |
+| [0682-baseball-game](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1472-design-browser-history](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
