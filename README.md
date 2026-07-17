@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0383-ransom-note) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0198-house-robber) |
@@ -642,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
