@@ -570,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
+| [0896-monotonic-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0973-k-closest-points-to-origin](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0978-longest-turbulent-subarray](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 | [0994-rotting-oranges](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0994-rotting-oranges) |
