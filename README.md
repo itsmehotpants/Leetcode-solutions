@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [0394-decode-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -923,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1472-design-browser-history](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
