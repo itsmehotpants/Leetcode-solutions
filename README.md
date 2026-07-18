@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0752-open-the-lock) |
@@ -939,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1472-design-browser-history](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1058,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |
