@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0127-word-ladder) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -840,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0130-surrounded-regions) |
