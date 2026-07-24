@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2963-count-the-number-of-good-partitions](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2963-count-the-number-of-good-partitions) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3620-network-recovery-pathways](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -993,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Graph Theory
 |  |
