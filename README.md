@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2463-minimum-total-distance-traveled](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2784-check-if-array-is-good](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3536-maximum-product-of-two-digits](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
