@@ -779,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0394-decode-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0394-decode-string) |
