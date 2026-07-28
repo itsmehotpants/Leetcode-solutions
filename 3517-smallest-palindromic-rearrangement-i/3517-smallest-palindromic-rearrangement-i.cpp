@@ -1,18 +1,15 @@
 class Solution {
 public:
-string smallestPalindrome(string s) {
-    int n = s.size();
-    string half = s.substr(0, n / 2);
+    string smallestPalindrome(string s) {
+        int n = s.length();
+        int mid = n / 2;
 
-    sort(half.begin(), half.end());
+        sort(begin(s), begin(s) + mid);
 
-    string ans = half;
-    if (n & 1)
-        ans += s[n / 2];
+        for (int i = 0; i < mid; i++) {
+            s[n - 1 - i] = s[i];
+        }
 
-    reverse(half.begin(), half.end());
-    ans += half;
-
-    return ans;
-}
+        return s;
+    }
 };
