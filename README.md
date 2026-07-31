@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
