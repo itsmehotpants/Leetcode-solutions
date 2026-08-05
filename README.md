@@ -596,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -849,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -990,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -1166,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Database
 |  |
 | ------- |
@@ -1188,4 +1192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
