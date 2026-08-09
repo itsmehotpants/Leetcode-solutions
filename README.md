@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0799-champagne-tower) |
 | [0838-push-dominoes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0838-push-dominoes) |
+| [0968-binary-tree-cameras](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 | [0978-longest-turbulent-subarray](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1048-longest-string-chain](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2236-root-equals-sum-of-children](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0951-flip-equivalent-binary-trees](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
+| [0968-binary-tree-cameras](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 | [1020-number-of-enclaves](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2236-root-equals-sum-of-children](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -1211,4 +1215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
+## DP on Trees
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
