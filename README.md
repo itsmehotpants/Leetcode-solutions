@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1510-stone-game-iv](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1197,14 +1199,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1222,4 +1227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
