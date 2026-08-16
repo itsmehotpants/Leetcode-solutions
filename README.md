@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2376-count-special-integers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2376-count-special-integers) |
 | [2544-alternating-digit-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2544-alternating-digit-sum) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2029-stone-game-ix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
@@ -969,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2029-stone-game-ix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1208,16 +1212,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1239,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
