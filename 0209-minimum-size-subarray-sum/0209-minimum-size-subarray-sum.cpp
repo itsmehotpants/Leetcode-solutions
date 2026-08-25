@@ -1,26 +1,23 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
-    int minSubArrayLen( int target,vector<int>& nums) {
-        // Write your code here
-        int n=nums.size();
-        int sum  = accumulate(nums.begin(),nums.end(),0);
-        if(target>sum) return 0;
-       
-        int l =0,r=0,len=INT_MAX;
-        int subsum=0;
+    int minSubArrayLen(int x, vector<int>& nums) {
+        int n =nums.size();
+        unordered_map<int,int>mp;
+        int total  = accumulate(nums.begin(),nums.end(),0);
+        if(x>total) return 0;
+        int len =INT_MAX;
+        int sum =0;
+        int l=0,r=0;
         while(r<n){
-            subsum+=nums[r];
-            while(subsum>=target){
+            sum+=nums[r];
+            while(sum>=x){
                 len = min(len,r-l+1);
-                subsum-=nums[l];
+                sum-=nums[l];
                 l++;
             }
             r++;
-            
         }
         return len;
+        
     }
 };
