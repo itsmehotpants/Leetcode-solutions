@@ -11,6 +11,6 @@ public:
         slow2 = nums[slow2];
         slow=nums[slow];
       }
-      return slow;
+      return slow2;
     }
 };
