@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0567-permutation-in-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -923,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0978-longest-turbulent-subarray](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
