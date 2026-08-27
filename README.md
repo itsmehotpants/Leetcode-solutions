@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2960-count-tested-devices-after-test-operations](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Breadth-First Search
 |  |
@@ -1050,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Prefix Sum
 |  |
@@ -1161,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Graph Theory
 |  |
