@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -854,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0310-minimum-height-trees](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0547-number-of-provinces) |
@@ -1207,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0743-network-delay-time) |
@@ -1228,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
