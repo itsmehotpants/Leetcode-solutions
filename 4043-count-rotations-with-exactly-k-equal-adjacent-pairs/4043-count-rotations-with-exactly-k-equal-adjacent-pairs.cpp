@@ -1,25 +1,20 @@
 class Solution {
 public:
-    int countRotations(string s, int k) 
-    {
-        int n = s.length();
-        int valid = 0;
-
-        for(int i =0; i<n; ++i)
-        {
-            int score = 0;
-            for(int j =0; j<n-1;++j)
-            {
-                if(s[(i+j)%n] == s[(i + j+1)%n])
-                {
-                    score++;
-                }
-            }
-            if(score == k)
-            {
-                valid++;
+    int countRotations(string s, int k) {
+        int pair=0,n=s.size();
+        for(int i=1; i<n; i++){
+            if(s[i]==s[i-1]){
+                pair++;
             }
         }
-        return valid;
+        if(s[0]==s[n-1]){
+            pair++;
+        }
+        if(k==pair-1){
+            return pair;
+        }else if(k==pair){
+            return n-pair;
+        }
+        return 0;
     }
 };
