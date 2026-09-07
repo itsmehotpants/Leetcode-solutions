@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0799-champagne-tower) |
 | [0838-push-dominoes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0838-push-dominoes) |
+| [0940-distinct-subsequences-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0968-binary-tree-cameras](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 | [0978-longest-turbulent-subarray](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1048-longest-string-chain](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1048-longest-string-chain) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [0838-push-dominoes](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0838-push-dominoes) |
 | [0844-backspace-string-compare](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0940-distinct-subsequences-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
