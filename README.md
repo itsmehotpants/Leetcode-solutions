@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/itsmehotpants/Leetcode-solutions/tree/master/0518-coin-change-ii) |
