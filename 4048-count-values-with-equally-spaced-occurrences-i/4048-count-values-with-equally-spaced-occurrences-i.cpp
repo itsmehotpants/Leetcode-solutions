@@ -1,31 +1,17 @@
 class Solution {
 public:
     int countSpecialIntegers(vector<int>& nums) {
-        unordered_map<int, int> mp;
+        vector<vector<int>> pos(101);
 
-        for (int x : nums) {
-            mp[x]++;
+        for (int i = 0; i < nums.size(); i++) {
+            pos[nums[i]].push_back(i);
         }
 
         int res = 0;
 
-        for (auto &[x, freq] : mp) {
-            if (freq != 3) continue;
-
-            int f1 = -1, s1 = -1, t1 = -1;
-
-            for (int i = 0; i < nums.size(); i++) {
-                if (nums[i] == x) {
-                    if (f1 == -1) f1 = i;
-                    else if (s1 == -1) s1 = i;
-                    else {
-                        t1 = i;
-                        break;
-                    }
-                }
-            }
-
-            if (s1 - f1 == t1 - s1) {
+        for (int x = 1; x <= 100; x++) {
+            if (pos[x].size() == 3 &&
+                pos[x][1] - pos[x][0] == pos[x][2] - pos[x][1]) {
                 res++;
             }
         }
